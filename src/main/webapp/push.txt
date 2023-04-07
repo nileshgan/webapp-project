@@ -1,0 +1,8 @@
+Hello Team,
+Today i have learn how to create a new branch and how to merge it in master branch 
+
+for creating new branch and entering into that branch you have to use below command
+
+    # git checkout -b branchname 
+
+
