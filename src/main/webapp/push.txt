@@ -5,4 +5,8 @@ for creating new branch and entering into that branch you have to use below comm
 
     # git checkout -b branchname 
 
+for merging you have to use below command
+
+    # git merge branchname
+
 
